@@ -1,1 +1,1 @@
-Zadatak za natječaj za mjesto junior frontend developera.
+Zadatak za natječaj za mjesto junior frontend developera izrađen uz HTML, CSS i Node.js.
