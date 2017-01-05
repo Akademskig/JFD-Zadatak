@@ -1,0 +1,1 @@
+Zadatak za natječaj za mjesto junior frontend developera.
